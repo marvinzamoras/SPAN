@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ContentDescription">
+        <ignore path="res/layout/activity_login.xml" />
+        <ignore path="res/layout/activity_main_test.xml" />
+        <ignore path="res/layout/activity_signup.xml" />
+        <ignore path="res/layout/activity_splashscreen.xml" />
+    </issue>
+    <issue id="Deprecated">
+        <ignore path="res/layout/activity_login.xml" />
+    </issue>
+    <issue id="ExtraText">
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/activity_splashscreen.xml" />
+    </issue>
+    <issue id="HardcodedText">
+        <ignore path="res/layout/activity_login.xml" />
+        <ignore path="res/layout/activity_main_test.xml" />
+        <ignore path="res/layout/activity_signup.xml" />
+        <ignore path="res/layout/activity_splashscreen.xml" />
+        <ignore path="res/layout/dashboard_header.xml" />
+    </issue>
+    <issue id="RtlHardcoded">
+        <ignore path="res/layout/activity_login.xml" />
+    </issue>
+    <issue id="RtlSymmetry">
+        <ignore path="res/layout/activity_login.xml" />
+    </issue>
+    <issue id="UnusedAttribute">
+        <ignore path="res/layout/activity_calendar.xml" />
+    </issue>
+    <issue id="UselessLeaf">
+        <ignore path="res/layout/activity_signup.xml" />
+    </issue>
+</lint>
